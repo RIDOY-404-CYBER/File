@@ -1,2 +1,2 @@
-import DUMP
-DUMP.rmx()
+import RMX
+
