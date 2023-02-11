@@ -7,7 +7,8 @@ if bit=='64bit':
     print('\033[1;32m[•] Congrats! Your Device Support This Tools')
     os.system('xdg-open https://facebook.com/groups/770617227293870/')
    # print(' Tool Off')
-    import FILEX
+   # import FILEX
+    imoort RMXXD6
   
 
 
